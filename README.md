@@ -2,6 +2,8 @@
 
 An interactive, terminal-based cryptography suite built in Python. This was a hobby project by myself to learn Python and practice cryptography. While I did write my own code, I impletmented code from various open-source resources as well. 
 
+<img width="555" height="244" alt="image" src="https://github.com/user-attachments/assets/7fd2e783-0fff-4e18-88fc-85910be21dc0" />
+
 ## License
 This project is licensed under the **GNU General Public License v3.0**.
 * **Personal Use:** Free to use and modify.
@@ -22,3 +24,4 @@ This project is licensed under the **GNU General Public License v3.0**.
 * **UI:** Improving the UI, with possible GUI wrapper.
 
 * **Hint System:** Improving the hint system.
+

@@ -2,6 +2,12 @@
 
 An interactive, terminal-based cryptography suite built in Python. This was a hobby project by myself to learn Python and practice cryptography. While I did write my own code, I impletmented code from various open-source resources as well. 
 
+## License
+This project is licensed under the **GNU General Public License v3.0**.
+* **Personal Use:** Free to use and modify.
+* **Distribution:** If you share or change this code, you must keep it under the same license and keep the source code public.
+* **Commercial:** You cannot incorporate this into paid/closed-source software.
+
 ## Features
 * **Practice Mode:** Encode or decode messages and quotes. 
 * **Hints:** There is a hint aviable to help in the practice mode but it is in early developments and needs future work/
@@ -14,4 +20,5 @@ An interactive, terminal-based cryptography suite built in Python. This was a ho
 ## Future Implementations / TODO
 * **Ciphers:** Add more ciphers, like 3x3 Hill Cipher or Nihilist. 
 * **UI:** Improving the UI, with possible GUI wrapper.
+
 * **Hint System:** Improving the hint system.

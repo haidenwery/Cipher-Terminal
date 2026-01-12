@@ -22,6 +22,20 @@ This project is licensed under the **GNU General Public License v3.0**.
 ## Future Implementations / TODO
 * **Ciphers:** Add more ciphers, like 3x3 Hill Cipher or Nihilist. 
 * **UI:** Improving the UI, with possible GUI wrapper.
-
 * **Hint System:** Improving the hint system.
+
+## Installation & Setup
+* To run the Cipher Terminal on your local machine, follow these steps:
+### 1. Clone the Repository
+* Open your terminal or command prompt and run:
+`git clone https://github.com/YourUsername/Cipher-Terminal.git`
+`cd Cipher-Terminal`
+
+### 2. Ensure Python is Installed
+* This project requires **Python 3.6+**. You can check your version with:
+`python --version`
+
+### 3. Run the Application
+* Start the program by running:
+`python cipher_terminal.py`
 

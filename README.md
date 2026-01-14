@@ -1,6 +1,6 @@
 # Cipher Terminal v1.0
 
-An interactive, terminal-based cryptography suite built in Python. This was a hobby project by myself to learn Python and practice cryptography. While I did write my own code, I impletmented code from various open-source resources as well. 
+An interactive, terminal-based cryptography tool built in Python. This was a hobby project by myself to learn Python and practice cryptography. It is simplified to be easier to use and to create a focus on the project itself. 
 
 <img width="555" height="244" alt="image" src="https://github.com/user-attachments/assets/7fd2e783-0fff-4e18-88fc-85910be21dc0" />
 
@@ -36,5 +36,6 @@ This project is licensed under the **GNU General Public License v3.0**.
 ### 3. Run the Application
 * Start the program by running:
 `python cipher_terminal.py`
+
 
 
